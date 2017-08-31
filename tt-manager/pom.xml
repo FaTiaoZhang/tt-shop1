@@ -16,6 +16,7 @@
         <module>tt-manager-interface</module>
         <module>tt-manager-service</module>
         <module>tt-manager-web</module>
+
     </modules>
     <artifactId>tt-manager</artifactId>
     <dependencies>
@@ -29,7 +30,5 @@
             <artifactId>junit</artifactId>
             <scope>test</scope>
         </dependency>
-
     </dependencies>
-
 </project>
